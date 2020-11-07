@@ -81,8 +81,10 @@ Update coming soon to version 2
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/_M4nifest0_">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://m4nifest0.com">
 		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2>📌 Our team specializes in the following programming languages:...</h2>
